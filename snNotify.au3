@@ -35,10 +35,10 @@ Opt("TrayMenuMode", 3)
 #include <WindowsConstants.au3>
 #include <GuiEdit.au3>
 
-#include "Includes\Base64.au3"
-#include "Includes\Toast.au3"
-#include "Includes\_StringInPixels.au3"
-#include "Includes\_snCommon.au3"
+#include "Includes\Common\Base64.au3"
+#include "Includes\Common\Toast.au3"
+#include "Includes\Common\_StringInPixels.au3"
+#include "Includes\Au3ServiceNow\_snCommon.au3"
 
 $g_bSingleInstance=True
 Global Const $VERSION = "23.322.1203.1"

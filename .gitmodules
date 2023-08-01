@@ -1,0 +1,6 @@
+[submodule "Includes/Au3ServiceNow"]
+	path = Includes/Au3ServiceNow
+	url = https://github.com/BiatuAutMiahn/Au3ServiceNow
+[submodule "Includes/Common"]
+	path = Includes/Common
+	url = https://github.com/BiatuAutMiahn/Au3Common
